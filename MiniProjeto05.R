@@ -1,5 +1,5 @@
-setwd("C:/CientistadeDados/BigDataRAzure/MiniProjeto05 - Analise Exploratoria")
-getwd()
+##setwd("C:/CientistadeDados/BigDataRAzure/MiniProjeto05 - Analise Exploratoria")
+##getwd()
 
 ## CARREGANDO OS DADOS
 
